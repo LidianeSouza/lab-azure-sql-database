@@ -27,7 +27,7 @@ Aqui você encontra um **passo a passo direto**, com anotações, dicas pessoais
    - **Servidor:** criei um novo chamado `lab-database-sqlazure`
    - **Localização:** `(South America) Brazil South`
    - **Método de autenticação:** escolhi **Autenticação SQL**, definindo login `labuser` e uma senha segura
-   - **Computação + armazenamento:** "Configurar banco de dados" em **Camada de serviço**, selecionei a opção **Básico** para manter o custo baixo
+   - **Computação + armazenamento:** "Configurar banco de dados" - **Camada de serviço**, selecionei a opção **Básico** para manter o custo baixo
 
 4. **Revisar + Criar**
    - Após revisar todas as configurações, confirmei a criação da instância.
