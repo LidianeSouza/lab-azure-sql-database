@@ -2,9 +2,9 @@
 
 ## 📚 Sobre este projeto
 
-Esse projeto faz parte de um laboratório prático que realizei para aprender como configurar uma instância de **Banco de Dados no Microsoft Azure**. O objetivo era entender todo o processo de criação do recurso.
+Este projeto faz parte de um laboratório prático onde aprendi a configurar uma instância de Banco de Dados no Microsoft Azure, compreendendo todo o processo de criação do recurso.
 
-Aqui você encontra um **passo a passo direto**, com anotações, dicas pessoais e capturas de tela do processo. Espero que sirva como apoio tanto para meus estudos quanto para quem estiver começando nessa jornada.
+No repositório, você encontrará um passo a passo objetivo, com anotações, dicas pessoais e capturas de tela que ilustram cada etapa. É um material pensado para servir como suporte tanto para meus estudos quanto para quem está iniciando nesta área.
 
 ---
 
@@ -55,7 +55,7 @@ Você encontra todas as imagens organizadas na pasta `/images`:
 | Revisão e Criação da Instância     | ![Passo 8](images/passo-08.png)      |
 | Criação da Instância     | ![Passo 9](images/passo-09.png)      |
 | Implantação da Instância   | ![Passo 10](images/passo-10.png)     |
-| Validação do Processo  | ![Passo 11](images/passo-11.png)     |
+| Finalização do Processo  | ![Passo 11](images/passo-11.png)     |
 
 ## ✅ Conclusão
 
