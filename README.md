@@ -2,7 +2,7 @@
 
 ## 📚 Sobre este projeto
 
-Esse projeto é parte de um laboratório prático que realizei para aprender como configurar uma instância de **Banco de Dados no Microsoft Azure**. O objetivo era entender todo o processo — desde a criação do recurso até a conexão e primeiros testes com SQL.
+Esse projeto faz parte de um laboratório prático que realizei para aprender como configurar uma instância de **Banco de Dados no Microsoft Azure**. O objetivo era entender todo o processo de criação do recurso.
 
 Aqui você encontra um **passo a passo direto**, com anotações, dicas pessoais e capturas de tela do processo. Espero que sirva como apoio tanto para meus estudos quanto para quem estiver começando nessa jornada.
 
